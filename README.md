@@ -1,7 +1,5 @@
-<p align="center>Samuel B. Bolsanello :man_technologist:</p>
-<!--
-[![Linkedin Badge](http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-bordini-bolsanello-b35026104/)](https://www.linkedin.com/in/samuel-bordini-bolsanello-b35026104/)
--->
+<p align="center>Samuel B. Bolsanello</p>
+
 ### Hi, welcome to my profile.
 
 - :earth_americas: I'm from Brazil
