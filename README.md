@@ -1,4 +1,4 @@
-<p align="center>Samuel B. Bolsanello</p>
+# Samuel B. Bolsanello :man_technologist:
 
 ### Hi, welcome to my profile.
 
