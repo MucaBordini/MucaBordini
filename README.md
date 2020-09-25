@@ -1,5 +1,7 @@
 # Samuel B. Bolsanello :man_technologist:
-
+<p align="center">
+   <h1>Samuel B. Bolsanello</h1>
+</p>
 ### Hi, welcome to my profile.
 
 - :earth_americas: I'm from Brazil
