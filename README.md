@@ -14,9 +14,6 @@
    <a href="https://github.com/MucaBordini" target="_blank" >
     <img alt="Github" src="https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=Github&logoColor=white"></a> 
   
-  <a href="https://www.instagram.com/samuelbolsanello" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-  
   <a href="https://www.linkedin.com/in/samuel-bordini-bolsanello-b35026104/" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
   
