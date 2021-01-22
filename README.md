@@ -4,9 +4,8 @@
 
 - :earth_americas: I'm from Brazil
 - 🏫 Studying Software Engineering at [UTFPR](http://portal.utfpr.edu.br/english)
-- 🔭 I’m currently developing a game using Unity
-- 🌱 I’m learning Javascript, Java, C#, Unity, React, React-Native, MongoDB
-- 🤔 I’m looking for help with Unity
+- 🔭 I’m currently working on Gubee and developing a game.
+- 🌱 I’m learning Javascript, Java, C#, Unity, Angular, MongoDB, Ports and Adapters
 - 📫 How to reach me: 
 
 <p align="center">
