@@ -5,7 +5,7 @@
 - :earth_americas: I'm from Brazil
 - 🏫 Studying Software Engineering at [UTFPR](http://portal.utfpr.edu.br/english)
 - 🔭 I’m currently working on Gubee and developing a game.
-- 🌱 I’m learning Javascript, Java, C#, Unity, Angular, MongoDB, Ports and Adapters
+- 🌱 I’m learning Kotlin, Java, Javascript, C#, Unity, Angular, MongoDB, Ports and Adapters
 - 📫 How to reach me: 
 
 <p align="center">
