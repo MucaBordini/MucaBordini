@@ -3,9 +3,9 @@
 ### Hi, welcome to my profile.
 
 - :earth_americas: I'm from Brazil
-- 🏫 Studying Software Engineering at [UTFPR](http://portal.utfpr.edu.br/english)
-- 🔭 I’m currently working on Gubee and developing a game.
-- 🌱 I’m learning Kotlin, Java, Javascript, C#, Unity, Angular, MongoDB, Ports and Adapters
+- 🏫 Graduated in Software Engineering at [UTFPR](http://portal.utfpr.edu.br/english)
+- 🔭 I’m currently working on G4Cloud, provisioning resources on Huawei Cloud.
+- 🌱 I’m learning ArgoCD, Python, Terraform.
 - 📫 How to reach me: 
 
 <p align="center">
